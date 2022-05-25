@@ -1,7 +1,7 @@
 var main=document.getElementById("main");
 var heading=document.createElement("h1");
 main.appendChild(heading);
-heading.setAttribute("class", "show")
+heading.setAttribute("class", "show");
 function printTime(){
     var d = new Date();
     var hours = d.getHours();
