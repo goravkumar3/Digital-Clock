@@ -29,6 +29,7 @@ body{
     margin-top:100px;
     background-color: #263a51;
     box-shadow:inset 0px 0px 10px 1px #fff,0px 0px 10px 1px  rgba(0,0,0,0.16);
+    padding:10px;
     /* transform: skew(35deg); */
     /* transform: perspective(300px) rotateX(45deg); */
 
